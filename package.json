@@ -1,6 +1,6 @@
 {
   "name": "generator-ngmvc-app",
-  "version": "3.4.0",
+  "version": "3.5.0",
   "description": "Yeoman Generator for Enterprise Angular projects.",
   "keywords": [
     "yeoman-generator",
